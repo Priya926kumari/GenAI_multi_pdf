@@ -1,0 +1,28 @@
+# streamlit
+# google-generativeai
+# python-dotenv
+# langchain
+# pyPDF2
+# faiss-cpu
+# langchain_google_genai
+
+streamlit==1.32.2
+plotly==5.22.0
+altair==5.2.0
+
+google-generativeai==0.7.2
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-text-splitters==0.2.2
+langchain-google-genai==1.0.8
+
+faiss-cpu==1.8.0
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+tqdm
+numpy
+pandas
+
+# Optional (recommended for embeddings)
+sentence-transformers
+huggingface-hub

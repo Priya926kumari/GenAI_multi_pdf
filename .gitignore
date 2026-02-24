@@ -1,0 +1,7 @@
+venv/
+.env
+.DS_Store
+*.ipynb_checkpoints
+__pycache__/
+faiss_index/
+test.ipynb
